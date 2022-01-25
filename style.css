@@ -1,0 +1,81 @@
+html {
+  font-family: "Hind Madurai", sans-serif;
+}
+
+.header p {
+  margin: 0;
+  padding-top: 1rem;
+  text-align: center;
+  font-size: 3rem;
+  font-weight: bold;
+}
+
+.hidden {
+  opacity: 0;
+  display: none;
+}
+
+.iyal-head {
+  border: 2px solid black;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 600;
+  margin: 1.5rem 0;
+  margin-bottom: 0;
+  padding: 0.5rem 0;
+}
+
+.iyal-head:hover {
+  background-color: lightgray;
+}
+
+.iyal-distribution {
+  border: 2px solid black;
+  border-top: none;
+  text-align: center;
+}
+
+.iyal-distribution ul {
+  margin-top: 0;
+  list-style: none;
+  text-align: center;
+}
+
+.iyal-distribution li {
+  padding: 1rem 0;
+  font-size: 1.5rem;
+  font-weight: 600;
+}
+
+.iyal-distribution li:hover {
+  color: brown;
+}
+
+.adhikaram {
+  border: 2px solid black;
+  margin: 0 1rem;
+}
+
+.lineforhead {
+  font-size: xx-large;
+  font-weight: bolder;
+  text-decoration: underline;
+}
+
+.kural {
+  border: 1px solid black;
+  text-align: start;
+}
+
+.kural p {
+  text-decoration: none;
+  font-size: 1.25rem;
+}
+
+.kural-head {
+  font-weight: bold;
+}
+
+.kural-explanation {
+  font-weight: bold;
+}
